@@ -1,0 +1,10 @@
+//! getParent
+//! getLeft
+//! getRight
+//! getSize
+//! isEmpty
+//! swap
+//! insert
+//! heapifyUp
+//! remove
+//! heapifyDown
