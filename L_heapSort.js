@@ -10,7 +10,7 @@ function heapSort(arr) {
         arr[0] = arr[i]
         arr[i] = temp
 
-        heapify(arr, n , 0)
+        heapify(arr, i , 0)
     }
 
     return arr
@@ -32,3 +32,6 @@ function heapify(arr, n, i) {
         heapify(arr, n, largest)
     }
 }
+
+let arr = [4, 10, 3, 5, 1]
+console.log(heapSort(arr))

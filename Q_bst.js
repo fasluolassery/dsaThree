@@ -11,3 +11,12 @@
 //todo ------->
 //! findClosest
 //! validateBst
+//! findLargest
+//! findSecLargest
+//! isBalanced
+//! isBst
+//! findDepth
+//! findHeight
+//! thirdLargest
+//! find
+//! makeArray

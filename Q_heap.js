@@ -8,3 +8,9 @@
 //! heapifyUp
 //! remove
 //! heapifyDown
+//! minHeap
+//! maxHeap
+//! removeMin
+//! removeMax
+//! heapSort
+//! buidMaxheap
